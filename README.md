@@ -18,4 +18,4 @@ To get a local copy of this project up and running, follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gullaliko/project-web.git
+   git clone https://github.com/gullaliko/projetWeb.git
