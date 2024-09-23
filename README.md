@@ -1,5 +1,3 @@
-# PorjetWeb
-
 # Project Web
 
 This project is part of my university semester course, focused on building dynamic and responsive websites using HTML, CSS, and JavaScript.
